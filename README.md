@@ -17,7 +17,7 @@ In such a situation, we need to dynamically lookup where our logger-app
 instances are deployed in order to call RPC methods. Eureka server act 
 as a middle man who keep track of URI information for logger-app instances.
 
-![Alt text](docs/overview.svg?raw=true "Title")
+![Alt text](docs/overview.jpg?raw=true "Title")
 
 logger-app [eureka registration done here.](https://github.com/JudeNiroshan/logger-app/blob/master/src/register-app.js)
 
