@@ -1,6 +1,7 @@
 ## logger-eureka-server
 
 [![Build Status](https://travis-ci.org/JudeNiroshan/logger-eureka-server.svg?branch=master)](https://travis-ci.org/JudeNiroshan/logger-eureka-server)
+![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/juden/logger-eureka-server?sort=date)
 
 This is the netflix-eureka server which is used for service discovery
 between [audit-server](https://github.com/JudeNiroshan/audit-server) ↔️ 
