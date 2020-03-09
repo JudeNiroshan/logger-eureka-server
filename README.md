@@ -6,7 +6,7 @@ This is the netflix-eureka server which is used for service discovery
 between [audit-server](https://github.com/JudeNiroshan/audit-server) ↔️ 
 [logger-app](https://github.com/JudeNiroshan/logger-app). 
 
-Why we need an Eureka server? 🤷🏼
+#### Why we need an Eureka server? 🤷🏼
 
 In a real-world production infrastructure, it is likely to deploy multiple
 instance of a same application to serve the in-coming traffic. In our case, 
