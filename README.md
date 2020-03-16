@@ -24,6 +24,7 @@ logger-app [eureka registration done here.](https://github.com/JudeNiroshan/logg
 
 #### How to run 🏃🏽‍♂️
  
- - clone the repository to your machine [`https://github.com/JudeNiroshan/logger-eureka-server.git`]
- - move to `logger-app` [`cd logger-eureka-server`]
+ - clone the repository to your machine [`git clone https://github.com/JudeNiroshan/logger-eureka-server.git`]
+ - move to `logger-eureka-server` [`cd logger-eureka-server`]
  - execute `./mvnw install`
+ - execute `./mvnw spring-boot:run`
